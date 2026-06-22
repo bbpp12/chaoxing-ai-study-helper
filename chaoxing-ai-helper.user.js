@@ -21,6 +21,8 @@
 // @connect      www.forestpolice.org
 // @run-at       document-idle
 // @license      MIT
+// @downloadURL  https://github.com/bbpp12/chaoxing-ai-study-helper/raw/refs/heads/main/chaoxing-ai-helper.user.js
+// @updateURL    https://github.com/bbpp12/chaoxing-ai-study-helper/raw/refs/heads/main/chaoxing-ai-helper.user.js
 // ==/UserScript==
 
 /**
